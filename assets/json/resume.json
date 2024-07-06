@@ -3,8 +3,8 @@
     "name": "Jing Sun",
     "label": "Scientist",
     "image": "",
-    "email": "jingsun@tudelft.nl",
-    "url": "https://jingsun8803.github.io",
+    "email": "jing.sun@tudelft.nl",
+    "url": "https://jingsun.net",
     "summary": "I am an Assistant Professor in the Department of Intelligent Systems (INSY) at the Faculty of Electrical Engineering, Mathematics, and Computer Science (EEMCS).",
     "location": {
       "address": "Van Mourik Broekmanweg 6",
@@ -33,7 +33,7 @@
                     "Inform physics or domain knowledge to improve the AI model’s reliability and interpretability"]
     },
     {
-      "name": "Research & Development, Shearwater GeoServices",
+      "name": "R&D, Shearwater GeoServices",
       "position": "Research Geophysicist",
       "url": "https://www.shearwatergeo.com",
       "startDate": "2022-01-01",
@@ -43,12 +43,12 @@
     },
     {
       "name": "Seismic Imaging Research & Development Group, Viridien(CGG) ",
-      "position": "Industrial PhD Researcher",
+      "position": "Industrial Ph.D.",
       "url": "https://www.viridiengroup.com/",
       "startDate": "2018-09-01",
       "endDate": "2021-12-31",
       "summary": "",
-      "highlights": ["Focus on machine learning-based seismic signal separation, specifically deblending and interference attenuation."]
+      "highlights": ["Focus on deep learning-based seismic signal separation, specifically deblending and interference attenuation."]
     }
   ],
   "education": [
@@ -57,7 +57,7 @@
       "location": "Oslo, Norway",
       "url": "",
       "area": "Machine Learning and Applied Geophysics",
-      "studyType": "PhD",
+      "studyType": "Ph.D.",
       "Defended Date": "2022-01-01",
       "endDate": ""
     }
