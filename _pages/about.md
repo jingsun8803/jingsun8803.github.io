@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Delft University of Technology, Netherlands
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: JingSun_Webpage_Photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Van Mourik Broekmanweg 6</p>
+    <p>2628 XE Delft           </p>
+    <p>The Netherlands         </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor in the Department of Intelligent Systems (INSY) at the Faculty of Electrical Engineering, Mathematics, and Computer Science (EEMCS). My research focuses on developing machine and deep learning techniques to tackle climate challenges and address geophysical problems, especially by informing physics or domain knowledge to improve the AI model’s reliability and interpretability. My work spans a broad spectrum of geophysical aspects, such as seismic, magnetic, and electromagnetic techniques, which are crucial for understanding the Earth's subsurface structures and physical properties. I also work on utilizing satellite-based observations to understand the Earth's surface, atmosphere, and oceans.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I obtained my M.S. and B.S. degrees in geophysics from Jilin University, China. Before joining TU Delft, I had close to 5 years of experience working in the energy industry, first as an industrial PhD researcher on deep learning for marine seismic processing at CGG and the University of Oslo, Norway, and then as a Research Geophysicist at Shearwater GeoServices in the UK. Building on this foundation, my research interest also lies in AI-based solutions to accelerate the transition to sustainable energy sources, including the assessment and monitoring of offshore wind farms.
