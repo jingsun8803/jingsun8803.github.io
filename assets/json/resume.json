@@ -82,18 +82,6 @@
       "summary": ""
     }
   ],
-  "skills": [
-    {
-      "name": "Programming",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python",
-        "C++",
-        "MATLAB"
-      ]
-    }
-  ],
   "languages": [
     {
       "language": "Chinese",
@@ -108,7 +96,7 @@
   ],
   "interests": [
       {
-        "name": "Artificial Intelligence on Earth Observations",
+        "name": "Artificial Intelligence for Earth Observations",
         "icon": "fa-solid fa-tag"
       }
     ]
