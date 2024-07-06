@@ -9,6 +9,7 @@ profile:
   image: JingSun_Webpage_Photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Office 6.E.100, Building 28</p>
     <p>Van Mourik Broekmanweg 6</p>
     <p>2628 XE Delft</p>
     <p>The Netherlands</p>
