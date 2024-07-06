@@ -52,7 +52,7 @@
       "highlights": [""]
     },
     {
-      "name": "epartment of Geo-exploration Science and Technology, Jilin University",
+      "name": "Department of Geo-exploration Science and Technology, Jilin University",
       "position": "Research Assistant",
       "url": "",
       "startDate": "2022-01-01",
@@ -65,7 +65,7 @@
     {
       "organization": "TU Delft | AI",
       "location": "Delft Netherlands",
-      "position": "Member",
+      "position": "Board Member",
       "url": "https://www.tudelft.nl/en/ai",
       "startDate": "2023-06-01",
       "endDate": "Present",
@@ -75,7 +75,7 @@
     {
       "organization": "TU Delft Climate Action Programme",
       "location": "Delft Netherlands",
-      "position": "Member",
+      "position": "Board Member",
       "url": "https://www.tudelft.nl/en/climate-action",
       "startDate": "2023-06-01",
       "endDate": "Present",
@@ -92,20 +92,6 @@
       "studyType": "PhD",
       "Defended Date": "2022-01-01",
       "endDate": ""
-    },
-    {
-      "institution": "Jilin University",
-      "location": "Changchun China",
-      "url": "",
-      "area": "Machine Learning and Applied Geophysics",
-      "studyType": "Master"
-    },
-    {
-      "institution": "Jilin University",
-      "location": "Changchun China",
-      "url": "",
-      "area": "Geophysics",
-      "studyType": "Bachelor"
     }
   ],
   "publications": [
