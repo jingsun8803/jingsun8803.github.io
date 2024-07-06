@@ -28,9 +28,9 @@
       "url": "https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/pattern-recognition-bioinformatics/people/jing-sun",
       "startDate": "2023-06-01",
       "endDate": "Present",
-      "summary": "Focus on physics-informed machine learning and geophysics to primarily address energy transition and climate challenges",
-      "highlights": ["Inform physics or domain knowledge to improve the AI model’s reliability and interpretability",
-                    "Utilize satellite-based observations to understand the Earth's surface, atmosphere, and oceans"]
+      "summary": "",
+      "highlights": ["Focus on machine and deep learning to primarily address energy transition and climate challenges",
+                    "Inform physics or domain knowledge to improve the AI model’s reliability and interpretability"]
     },
     {
       "name": "Research & Development, Shearwater GeoServices",
@@ -38,8 +38,8 @@
       "url": "https://www.shearwatergeo.com",
       "startDate": "2022-01-01",
       "endDate": "2023-05-31",
-      "summary": "Research and develop processing solutions for multi-component data based on machine learning and other physical theories.",
-      "highlights": [""]
+      "summary": "",
+      "highlights": ["Research and develop processing solutions for multi-component data based on machine learning and other physical theories."]
     },
     {
       "name": "Seismic Imaging Research & Development Group, Viridien - Formerly CGG ",
@@ -47,8 +47,8 @@
       "url": "https://www.viridiengroup.com/",
       "startDate": "2018-09-01",
       "endDate": "2021-12-31",
-      "summary": "Focus on machine learning-based seismic signal separation, specifically deblending and interference attenuation.",
-      "highlights": [""]
+      "summary": "",
+      "highlights": ["Focus on machine learning-based seismic signal separation, specifically deblending and interference attenuation."]
     }
   ],
   "education": [
