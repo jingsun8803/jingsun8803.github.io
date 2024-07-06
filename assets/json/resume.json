@@ -4,7 +4,6 @@
     "label": "Scientist",
     "image": "",
     "email": "jingsun@tudelft.nl",
-    "phone": "+31 630323078",
     "url": "https://jingsun8803.github.io",
     "summary": "I am an Assistant Professor in the Department of Intelligent Systems (INSY) at the Faculty of Electrical Engineering, Mathematics, and Computer Science (EEMCS).",
     "location": {
@@ -49,37 +48,6 @@
       "startDate": "2018-09-01",
       "endDate": "2021-12-31",
       "summary": "Focus on machine learning-based seismic signal separation, specifically deblending and interference attenuation.",
-      "highlights": [""]
-    },
-    {
-      "name": "Department of Geo-exploration Science and Technology, Jilin University",
-      "position": "Research Assistant",
-      "url": "",
-      "startDate": "2022-01-01",
-      "endDate": "2023-05-31",
-      "summary": "Work on seismic multiple suppression using mathematical transforms e.g. Shearlet, Curvelet and Wavelet",
-      "highlights": [""]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "TU Delft | AI",
-      "location": "Delft Netherlands",
-      "position": "Board Member",
-      "url": "https://www.tudelft.nl/en/ai",
-      "startDate": "2023-06-01",
-      "endDate": "Present",
-      "summary": "Bringing fundamental and applied AI together makes it possible to push the boundaries of science.",
-      "highlights": [""]
-    },
-    {
-      "organization": "TU Delft Climate Action Programme",
-      "location": "Delft Netherlands",
-      "position": "Board Member",
-      "url": "https://www.tudelft.nl/en/climate-action",
-      "startDate": "2023-06-01",
-      "endDate": "Present",
-      "summary": "We bring together students and researchers in the field of Climate Action.",
       "highlights": [""]
     }
   ],
@@ -136,29 +104,14 @@
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Professional working proficiency",
       "icon": ""
     }
   ],
   "interests": [
       {
-        "name": "Artificial Intelligence",
-        "icon": "fa-solid fa-tag",
-        "keywords": [
-          "Machine learning", 
-          "Deep learning",
-          "Physics-informed AI",
-          "AI-based solutions"
-        ]
-      },
-      {
-        "name": "Geoscience",
-        "icon": "fa-solid fa-tag",
-        "keywords": [
-          "Ultra-high resolution windfarm",
-          "Satellite-based observations",
-          "Geophysical problems"
-        ]
+        "name": "Artificial Intelligence on Earth Observations",
+        "icon": "fa-solid fa-tag"
       }
     ]
 }
