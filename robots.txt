@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jingsun8803.github.io/sitemap.xml
+Sitemap: https://jingsun.net/sitemap.xml
