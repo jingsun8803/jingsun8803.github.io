@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Delft University of Technology, Netherlands
+subtitle: <a href='#'>Affiliation:</a>. Delft University of Technology, Netherlands
 
 profile:
   align: right
