@@ -58,9 +58,11 @@ layout: default
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
+      {% assign sorted_papers = page.selected_papers | sort: 'year' | reverse %}
       <h2>
         <a href="{{ '/publications/' | relative_url }}" style="color: inherit">Selected publications</a>
       </h2>
+      {% assign page.selected_papers = sorted_papers %}
       {% include selected_papers.liquid %}
     {% endif %}
 
